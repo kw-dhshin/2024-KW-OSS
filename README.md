@@ -15,7 +15,7 @@
 | 8 | [대학 맞춤 추천 프로그램](https://github.com/anseonghwan/KW_Open-Source_Project_team08) | 안성환, 강동민, 김도훈, 송일환, 최승환 |
 | 9 | [Encrypt_Chat](https://github.com/Acidosnow/Encrypt_Chat_9) | 조영인, 최준서, 권혁, 장수민 |
 | 10 | [중간 지점 계산기](https://github.com/cssrex/kw-2024-group10) | 김주영, 임현석, 최정현, 최유완 |
-| 11 | [(미정)](https://github.com/seolbea/kw_team_11_project) | 이제민, 설찬진, 설장헌, 강현 |
+| 11 | [일본어 사전](https://github.com/seolbea/kw_team_11_project) | 이제민, 설찬진, 설장헌, 강현 |
 | 12 | [live-like-J](https://github.com/z2sseong2/live-like-J-Group-12-) | 김지성, 김지훈, 전문성, 이수민, 이영준 |
-| 13 | [(미정)](https://github.com/hO-chan/24_OSS_13) | 최서연, 황영찬, 전병찬, 김재훈 |
+| 13 | [의료 취약 계층을 위한 자가진단 사이트](https://github.com/hO-chan/24_OSS_13) | 최서연, 황영찬, 전병찬, 김재훈 |
 | 14 | [Quich (quiz each other)](https://github.com/HoKwaan/Team14-Project) | 김찬희, 권관호, 백준영, 이연우 |
