@@ -1,6 +1,8 @@
 # 2024-KW-OSS
 광운대학교 컴퓨터정보공학부 2024 오픈소스소프트웨어설계및실습
 
+### [Sample Progress.md](https://github.com/kw-dhshin/2024-KW-OSS/blob/main/PROGRESS.md)
+
 ### 프로젝트 조 구성
 
 | 조 | 주제 | 팀원 |
