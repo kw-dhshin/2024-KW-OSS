@@ -10,7 +10,7 @@
 | 1 | [학생회 페이지 프로젝트](https://github.com/kh-woo/WebSandbox_1) | 김현우, 전한아솔, 최우진, 김경목 |
 | 2 | [Seoul Amateur Orchestra Club](https://github.com/kyeongjeong/Seoul_amateur_orchestra_club) | 최경정, 곽도경, 김하경, 이오영 |
 | 3 | [KW-MatchRoomie](https://github.com/openSource-3Team/KW-MatchRoomie) | 황인규, 최현서, 정주연, 김소정 |
-| 4 | [주니어 광운](https://github.com/ehdgus3130/KW_OSS_4TeamProject/tree/main) | 김동현, 박원국, 백민재, 정승수 |
+| 4 | [팡팡랜드](https://github.com/ehdgus3130/KW_OSS_4TeamProject/tree/main) | 김동현, 박원국, 백민재, 정승수 |
 | 5 | [요야정(YYJ, 요즘 야구 정리)](https://github.com/choehyeonjin/OSS-YYJ-group5) | 김송혜, 오윤서, 장서현, 최현진 |
 | 6 | [Statistics of KWU student's BAEKJOON](https://github.com/sjml2002/oss_kwboj_6) | 박준혁, 김준상, 강하늘, 이제희, 이호정 |
 | 7 | [Match Schedule](https://github.com/color1478/kwu-op-sw-team7) | 이제호, 나민엽, 박민서, 정민지, 최은준 |
